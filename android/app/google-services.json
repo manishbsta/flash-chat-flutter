@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "832578520240",
+    "firebase_url": "https://flash-chat-463ae.firebaseio.com",
+    "project_id": "flash-chat-463ae",
+    "storage_bucket": "flash-chat-463ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832578520240:android:864b07bcc15e57f136a775",
+        "android_client_info": {
+          "package_name": "com.manishbista.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832578520240-9l682q615so7bk7foq63132vqi6hl4fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Z4sGg3GYZ0de7VI-Ycn4ZoNMgvL7D2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832578520240-9l682q615so7bk7foq63132vqi6hl4fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
